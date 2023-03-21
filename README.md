@@ -2,6 +2,7 @@
  <div>
     <img align="right" alt="Julia-pic" height="150" width="150" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxj1JWX_LLspuOkqePVIH7y0Qod2pQbewWe0yVKe3fxXbaTO8BoIhtNYt_nZ_4waKKKhgNF5Ya-1yicVS9L6Mgw8AMsSFgJJ61RmFZQEMvLg2VEI0fnEkh9MYUmCpL2sYhu-BlT7BompHDHtpqzFW0rkU3BpWD2H_uuEuL1pnFHIIQRXQNcX8I1H8fug/s320/Meu%20GIF.gif?width=676&height=676">
 </div>
+
 - 'm Julia!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliasofreio/)](https://www.linkedin.com/in/juliasofreio/) 
