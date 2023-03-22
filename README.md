@@ -7,9 +7,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliasofreio/)](https://www.linkedin.com/in/juliasofreio/) 
  
-##
-
-![Snake animation](https://github.com/juliasofreio/juliasofreio/blob/output/github-contribution-grid-snake.svg)
  
 ##
 
