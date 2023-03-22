@@ -9,6 +9,8 @@
  
 ##
  
+ ![Snake animation](https://github.com/juliasofreio/juliasofreio/blob/output/github-contribution-grid-snake.svg)
+ 
 ##
 
 #### Languages and Tools:
