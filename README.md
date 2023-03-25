@@ -11,8 +11,11 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliasofreio/)](https://www.linkedin.com/in/juliasofreio/) 
- 
- 
+
+##
+
+![Snake animation](https://github.com/juliasofreio/juliasofreio/blob/output/github-contribution-grid-snake.svg)
+
 ##
 
 #### Languages and Tools:
@@ -25,4 +28,6 @@
 <div>
     <a href="http://github.com/juliasofreio">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliasofreio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliasofreio&layout=compact&langs_count-16&theme=dracula"/>
+    
 </div>
