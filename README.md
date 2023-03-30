@@ -7,7 +7,7 @@
 
 🍄 She/her
 
-✨ Technology enthusiast
+✨ Technology enthusiast 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliasofreio/)](https://www.linkedin.com/in/juliasofreio/) 
