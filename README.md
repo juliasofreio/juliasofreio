@@ -1,6 +1,6 @@
 ## Hello, World!
  <div>
-    <img align="right" alt="Julia-pic" height="150" width="150" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxj1JWX_LLspuOkqePVIH7y0Qod2pQbewWe0yVKe3fxXbaTO8BoIhtNYt_nZ_4waKKKhgNF5Ya-1yicVS9L6Mgw8AMsSFgJJ61RmFZQEMvLg2VEI0fnEkh9MYUmCpL2sYhu-BlT7BompHDHtpqzFW0rkU3BpWD2H_uuEuL1pnFHIIQRXQNcX8I1H8fug/s320/Meu%20GIF.gif?width=676&height=676">
+    <img align="right" alt="Julia-pic" height="150" width="150" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuNshVOGYfPtk-LwdbNW5OYLKpVn91UZeHCKRwKmeksOVta__No0Ok_HgnL1SxFThvxtVMaj_wxwEHwS8SlXMLKO06-tnFwHiowMFAOXdMnOvNtJp3v43G7mdpKYjJ1r8EejK-juk6XAwyWa3YVj9WZQo-KkUhV_eIN1lbZq2VTVO6PXotmMrLS-ns-Q/s320/Meu%20GIF%20em%20roxo.gif">
 </div>
 
 🧡 I'm a Backend Developer in training. I'm currently learning Python, a bit a day 🧡 
