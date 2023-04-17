@@ -3,7 +3,7 @@
     <img align="right" alt="Julia-pic" height="150" width="150" style="border-radius:50px;" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuNshVOGYfPtk-LwdbNW5OYLKpVn91UZeHCKRwKmeksOVta__No0Ok_HgnL1SxFThvxtVMaj_wxwEHwS8SlXMLKO06-tnFwHiowMFAOXdMnOvNtJp3v43G7mdpKYjJ1r8EejK-juk6XAwyWa3YVj9WZQo-KkUhV_eIN1lbZq2VTVO6PXotmMrLS-ns-Q/s320/Meu%20GIF%20em%20roxo.gif">
 </div>
 
-🧡 I'm a Backend Developer in training. I'm currently learning Python, a bit a day 🧡 
+🧡 I'm a Developer in training. I'm currently learning Python, a bit a day 🧡 
 
 🍄 She/her
 
