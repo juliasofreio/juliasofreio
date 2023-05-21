@@ -5,7 +5,7 @@
 
 🧡 I'm a Developer in training. I'm currently learning Python, a bit a day 🧡 
 
-🍄 She/her
+🍄 She/her 
 
 ✨ Technology enthusiast
 
